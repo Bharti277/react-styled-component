@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 
 /node_modules
 
@@ -6,3 +7,6 @@
 /build
 node_modules
 build
+=======
+node_modules
+>>>>>>> Stashed changes

@@ -14,6 +14,7 @@ const useStyles = makeStyles({
   sidebar: {
     boxSizing: "border-box",
     width: "260px",
+    marginTop: "12px",
   },
   sidenav: {
     display: "flex",
@@ -21,20 +22,33 @@ const useStyles = makeStyles({
     alignItems: "center",
     position: "static",
     textTransform: "capitalize",
-    background: "#FFFFFF",
     cursor: "pointer",
+    borderRadius: "4px",
+    marginBottom: "5px",
+    transition: "all 0.5s ease-out",
+    padding: "2px 20px",
+    "&:hover": {
+      backgroundColor:"#CEE3FF",
+    }
   },
   icon: {
     backgroundColor: "#CEE3FF",
-    color: "#1366F2",
-    width: "49px !important",
-    height: "49px !important",
+    color: "#0747f5",
+    width: "40px !important",
+    height: "40px !important",
     borderRadius: "4px",
+    "&:hover": {
+      backgroundColor:"#1d82db",
+      color:"#fff",
+      transition: "all 0.4s ease-in",
+    }
   },
+  
   textHeading: {
-    marginLeft: "26px",
+    paddingLeft: "26px",
     fontSize: "20px",
     fontWeight: "400",
+    margin: "0px 2px 0px 2px",
   },
 });
 
