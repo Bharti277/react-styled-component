@@ -1,13 +1,13 @@
 {
-  "files": {
-    "main.css": "/react-practice/static/css/main.682999b0.css",
-    "main.js": "/react-practice/static/js/main.3813ee31.js",
-    "index.html": "/react-practice/index.html",
-    "main.682999b0.css.map": "/react-practice/static/css/main.682999b0.css.map",
-    "main.3813ee31.js.map": "/react-practice/static/js/main.3813ee31.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.682999b0.css",
-    "static/js/main.3813ee31.js"
-  ]
+  "main.css": "/react-practice/static/css/main.90546b02.chunk.css",
+  "main.js": "/react-practice/static/js/main.80110dbb.chunk.js",
+  "main.js.map": "/react-practice/static/js/main.80110dbb.chunk.js.map",
+  "static/js/1.395ee22a.chunk.js": "/react-practice/static/js/1.395ee22a.chunk.js",
+  "static/js/1.395ee22a.chunk.js.map": "/react-practice/static/js/1.395ee22a.chunk.js.map",
+  "runtime~main.js": "/react-practice/static/js/runtime~main.f878aa0a.js",
+  "runtime~main.js.map": "/react-practice/static/js/runtime~main.f878aa0a.js.map",
+  "static/css/main.90546b02.chunk.css.map": "/react-practice/static/css/main.90546b02.chunk.css.map",
+  "index.html": "/react-practice/index.html",
+  "precache-manifest.68e5b50c37701a7a06e194b9aeb4bd6b.js": "/react-practice/precache-manifest.68e5b50c37701a7a06e194b9aeb4bd6b.js",
+  "service-worker.js": "/react-practice/service-worker.js"
 }
