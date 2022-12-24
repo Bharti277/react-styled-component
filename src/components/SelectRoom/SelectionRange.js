@@ -8,4 +8,4 @@ function SelectionRange() {
   )
 }
 
-export default SelectionRange
+export default SelectionRange;
