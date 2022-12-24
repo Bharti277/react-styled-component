@@ -1,8 +1,8 @@
 import React from "react";
 
 function Navbar() {
-  return <div className="text-white bg-black">
-      <div className="navbar">
+  return <div className="text-center text-white bg-black">
+      <div className="flex items-center">
         <div className="home">Home</div>
         <div className="pages">Pages</div>
         <div className="rooms">Rooms</div>
