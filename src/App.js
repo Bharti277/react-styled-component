@@ -15,7 +15,7 @@ function App() {
       <SelectRoom />
       <OurRooms />
       <div className="my-app">
-        <button onClick={() => dispatch(incNumber())}>Increment</button>
+        <button onClick={() => dispatch(incNumber(5))}>Increment</button>
         <input className='text-center' type="text" value={myState} onChange={e => e.target.value} />
         <button onClick={() => dispatch(decNumber())}>Decrement</button>
       </div>
