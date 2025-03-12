@@ -1,11 +1,23 @@
-## Book your room
+# React Projects
 
-The project will lead you to a demo of booking a room where users can check rooms according to their requirements and categories of their preferences.
+List of mostly used UI Elements (or Components) in a Website, built with **React JS**.
 
-Technology which will be using to create this project.
+<br/>
 
-## Tech Stack
+## Technologies used:
 
-**Client:** React, Redux, TailwindCSS
+- #### **React JS**
+- #### **React Router**
+- #### **Styled Components**
 
-**Server:** Node, Express
+<br/>
+
+## Available Scripts:
+
+#### `npm start`
+
+#### `npm test`
+
+#### `npm run build`
+
+#### `npm run eject`
